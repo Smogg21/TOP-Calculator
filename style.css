@@ -1,0 +1,21 @@
+
+.container{
+    width: 800px;
+}
+.row{
+    display: flex;
+}
+.calc-input{
+    width: 400px;
+    height: 100px;
+    background: lightgrey;
+}
+.button{
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border: solid 1px black;
+}
