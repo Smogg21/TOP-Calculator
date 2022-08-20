@@ -6,9 +6,14 @@
     display: flex;
 }
 .calc-input{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
     width: 400px;
     height: 100px;
     background: lightgrey;
+    font-size: 30px;
+
 }
 .button{
     display: flex;
